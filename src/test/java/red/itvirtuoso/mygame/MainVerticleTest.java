@@ -1,4 +1,4 @@
-package io.vertx.starter;
+package red.itvirtuoso.mygame;
 
 import io.vertx.core.Vertx;
 import io.vertx.ext.unit.Async;
@@ -8,6 +8,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
+import red.itvirtuoso.mygame.MainVerticle;
 
 @RunWith(VertxUnitRunner.class)
 public class MainVerticleTest {
